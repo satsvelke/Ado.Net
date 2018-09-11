@@ -1,0 +1,4 @@
+D:\SatishPatil_Projects\SatsExtentions\SatsExtentions\bin\Debug\SatsExtentions.dll
+D:\SatishPatil_Projects\SatsExtentions\SatsExtentions\bin\Debug\SatsExtentions.pdb
+D:\SatishPatil_Projects\SatsExtentions\SatsExtentions\obj\Debug\SatsExtentions.dll
+D:\SatishPatil_Projects\SatsExtentions\SatsExtentions\obj\Debug\SatsExtentions.pdb
